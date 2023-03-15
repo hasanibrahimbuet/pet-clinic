@@ -22,6 +22,7 @@ INSERT INTO types VALUES (4, 'snake');
 INSERT INTO types VALUES (5, 'bird');
 INSERT INTO types VALUES (6, 'hamster');
 INSERT INTO types VALUES (7, 'horse');
+INSERT INTO types VALUES (8, 'pony');
 INSERT INTO types VALUES (7, 'horse');
 INSERT INTO types VALUES (8, 'pony');
 
